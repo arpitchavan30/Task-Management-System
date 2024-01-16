@@ -12,7 +12,6 @@ import java.util.List;
 public class UserDetailsCreator implements UserDetails {
 
     String username;
-
     String password;
 
     List<GrantedAuthority> authorities;

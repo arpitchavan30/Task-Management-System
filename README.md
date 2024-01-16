@@ -4,7 +4,7 @@ A Task Management System lets people sign up as users or admins. It has handy fe
 
 * The app is built with strong tools like Java, Spring Boot, JPA/Hibernate, and MySQL for handling data well. Swagger makes it easy to manage APIs, and Postman is used to test them thoroughly.
 
-* We organized the app using MVC architecture. Controllers manage APIs, Service classes handle business logic, and Repository interfaces talk to the database. We use DTOs to manage entities efficiently and handle exceptions robustly. Transformers help transform data, making the codebase easy to maintain.
+* I organized the app using MVC architecture. Controllers manage APIs, Service classes handle business logic, and Repository interfaces talk to the database. I use DTOs (Data Transfer Objects) to manage entities efficiently and handle exceptions robustly. Transformers help transform data, making the codebase easy to maintain.
 
 Key Features :-
 * User Access :- Users can register in the database and manage their tasks by adding, deleting, and updating them. They can also retrieve a list of all assigned tasks.

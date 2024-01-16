@@ -38,7 +38,7 @@ public class UserService {
 
         user.setUserId(newUserId);
         User newUser = userRepository.save(user);
-        return "user added successfully";
+        return newUser.getUserId();
     }
 
     // add admin user

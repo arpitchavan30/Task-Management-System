@@ -16,3 +16,6 @@ Key Features :-
 * Swagger Implementation :- Utilized Swagger dependency to comprehensively document all project APIs, facilitating easy accessibility and integration for developers.
 
 * API Testing :- Thoroughly tested all APIs, covering various exceptions and use cases, ensuring functionality and reliability, utilizing Postman software for comprehensive testing and validation.
+
+* Entity Relationship Diagram:-  
+![ER-Dig](https://github.com/arpitchavan30/Task-Management-System/assets/126240415/111af490-eeb6-4f53-af96-fd685416617f)
